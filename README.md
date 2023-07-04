@@ -39,7 +39,7 @@ You can customize your homepage by adding content to either an `index.md` file o
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct, license link.a
 -->
 
 ---
